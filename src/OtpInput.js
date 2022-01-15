@@ -49,7 +49,7 @@ export default class OtpInput extends Component {
 	}
 
 	render() {
-		styles = StyleSheet.create({
+		const styles = StyleSheet.create({
 			container: {
 				marginTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,
 				flex: 1,
