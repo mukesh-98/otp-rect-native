@@ -1,0 +1,33 @@
+{
+	"name": "otp-react-native",
+	"version": "1.0.0",
+	"description": "This is an otp component for react native",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mukesh-98/otp-rect-native.git"
+	},
+	"keywords": [
+		"otp",
+		"otp-input",
+		"react",
+		"react-native",
+		"android",
+		"ios",
+		"web"
+	],
+	"author": "Mukesh Parmar",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mukesh-98/otp-rect-native/issues"
+	},
+	"homepage": "https://github.com/mukesh-98/otp-rect-native#readme",
+	"dependencies": {
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2",
+		"react-native": "^0.66.4"
+	}
+}
